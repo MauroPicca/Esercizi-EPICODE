@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
-</p>
-
-<p align="center">
-  🎯 Obiettivo: SOC Analyst · Blue Team · Cybersecurity Analyst
+  Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
 </p>
 
 <p align="center">
