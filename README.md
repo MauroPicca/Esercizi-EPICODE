@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Master-Cybersecurity_%26_Ethical_Hacking_(EPICODE_CS0226IT)-1F6FEB?style=for-the-badge" alt="Master EPICODE">
+  <img src="https://img.shields.io/badge/🎓_MASTER-CYBERSECURITY_%26_ETHICAL_HACKING_(EPICODE_CS0226IT)-1F6FEB?style=for-the-badge&labelColor=24292F" alt="Master EPICODE">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Target-SOC_Analyst-2ea44f?style=flat-square" alt="SOC Analyst">
-  <img src="https://img.shields.io/badge/Target-Blue_Team-2ea44f?style=flat-square" alt="Blue Team">
-  <img src="https://img.shields.io/badge/Target-Cybersecurity_Analyst-2ea44f?style=flat-square" alt="Cybersecurity Analyst">
+  <img src="https://img.shields.io/badge/Obiettivo-SOC_Analyst-1F6FEB?style=flat-square&labelColor=24292F" alt="SOC Analyst">
+  <img src="https://img.shields.io/badge/Obiettivo-Blue_Team-1F6FEB?style=flat-square&labelColor=24292F" alt="Blue Team">
+  <img src="https://img.shields.io/badge/Obiettivo-Cybersecurity_Analyst-1F6FEB?style=flat-square&labelColor=24292F" alt="Cybersecurity Analyst">
 </p>
 
 <p align="center">
@@ -134,18 +134,18 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 <p align="center">
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nessus-00A96E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wazuh-3AB6E0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nmap-334155?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nessus-334155?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wazuh-334155?style=for-the-badge">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/YARA-696969?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gophish-1E1E1E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/YARA-334155?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gophish-334155?style=for-the-badge">
 </p>
 
 <p align="center"><strong>Networking</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge">
+  <img src="https://img.shields.io/badge/pfSense-334155?style=for-the-badge">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 </p>
 
