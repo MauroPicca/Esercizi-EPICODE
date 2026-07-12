@@ -4,6 +4,19 @@
   <img src="epicode-cybersecurity-overview.png" alt="Panoramica del percorso EPICODE Cybersecurity & Ethical Hacking">
 </p>
 
+<p align="center">
+<strong>Mauro Picca</strong><br>
+IT Support Specialist | System Administrator<br>
+🎓 Master in <strong>Cybersecurity & Ethical Hacking</strong> – EPICODE (CS0226IT)<br>
+Attualmente orientato verso ruoli <strong>SOC Analyst</strong>, <strong>Blue Team</strong> e <strong>Cybersecurity Analyst</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauro-picca">🔗 LinkedIn</a>
+</p>
+
+---
+
 > Oltre 60 laboratori, relazioni tecniche e progetti pratici realizzati durante il Master EPICODE in Cybersecurity & Ethical Hacking (classe CS0226IT).
 
 Questo repository raccoglie le relazioni, i laboratori e i progetti sviluppati durante il percorso formativo presso **EPICODE**.
@@ -16,28 +29,28 @@ Ogni cartella rappresenta una settimana (`S`) e un laboratorio (`L`) del master 
 
 <h1 align="center">📊 Il percorso in numeri</h1>
 
-- 📁 Oltre **60 laboratori** documentati
-- 📝 Decine di relazioni tecniche
-- 🛡️ 3 Build Week progettuali
-- 🌐 Networking, Red Team e Blue Team
-- 📅 3 mesi di attività pratica continuativa
+<div align="center">
+
+| 📁 | 📝 | 🛡️ | 🌐 | 📅 |
+|:---:|:---:|:---:|:---:|:---:|
+| **60+**<br>Laboratori documentati | **Decine**<br>di relazioni tecniche | **3**<br>Build Week progettuali | **3**<br>Aree: Networking, Red Team, Blue Team | **3 mesi**<br>di attività pratica continuativa |
+
+</div>
 
 ---
 
 <h1 align="center">🎯 Competenze sviluppate</h1>
 
-- Network Security
-- Vulnerability Assessment
-- Penetration Testing
-- Web Application Security
-- Malware Analysis
-- Threat Intelligence
-- SIEM & Log Analysis
-- Incident Detection
-- Windows Server & Active Directory
-- Linux Administration
-- Network Traffic Analysis
-- Scripting con Python
+<div align="center">
+
+| | | |
+|---|---|---|
+| Network Security | Vulnerability Assessment | Penetration Testing |
+| Web Application Security | Malware Analysis | Threat Intelligence |
+| SIEM & Log Analysis | Incident Detection | Windows Server & Active Directory |
+| Linux Administration | Network Traffic Analysis | Scripting con Python |
+
+</div>
 
 ---
 
@@ -49,7 +62,9 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 <h2 align="center">🌐 UNIT 1 — Networking <em>(aprile)</em></h2>
 
-**Fundamentals of Ethical Hacking → Python & AI Pairing for Secure Coding → Operating System → Build Week 1**
+<p align="center"><strong>Fundamentals of Ethical Hacking → Python & AI Pairing for Secure Coding → Operating System → Build Week 1</strong></p>
+
+<div align="center">
 
 | Cartella | Contenuti |
 |----------|-----------|
@@ -59,11 +74,15 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 | `S3_L1 → S3_L5` | Sistemi Operativi, CPU Scheduling, DVWA, Burp Suite, Crittografia, pfSense |
 | `S4_L5 - BW I` | **Build Week 1** – Progetto completo di Network Security Assessment (Datashield) |
 
+</div>
+
 ---
 
 <h2 align="center">🎯 UNIT 2 — Red Team <em>(maggio)</em></h2>
 
-**AI-Driven Reconnaissance → Exploitation → Metasploit → Build Week 2**
+<p align="center"><strong>AI-Driven Reconnaissance → Exploitation → Metasploit → Build Week 2</strong></p>
+
+<div align="center">
 
 | Cartella | Contenuti |
 |----------|-----------|
@@ -72,11 +91,15 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 | `S7_L1 → S7_L5` | Metasploit Framework, Meterpreter, sfruttamento di vulnerabilità reali |
 | `S8_L5 - BW II` | **Build Week 2** – End-to-End Penetration Testing |
 
+</div>
+
 ---
 
 <h2 align="center">🛡️ UNIT 3 — Blue Team <em>(giugno)</em></h2>
 
-**Malware Analysis → SOC & SIEM → Cisco CyberOps → Build Week 3**
+<p align="center"><strong>Malware Analysis → SOC & SIEM → Cisco CyberOps → Build Week 3</strong></p>
+
+<div align="center">
 
 | Cartella | Contenuti |
 |----------|-----------|
@@ -85,51 +108,26 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 | `S_11_L1 → S_11_L5` | Cisco CyberOps, Wireshark, Analisi TCP/DNS, Linux CLI, MySQL Security |
 | `S_12_L5 - BW III` | **Build Week 3** – Malware Analysis & Reverse Engineering (SecureSentinels - Team 3) |
 
+</div>
+
 ---
 
 <h1 align="center">🛠️ Tecnologie e strumenti</h1>
 
-## Operating Systems
+<div align="center">
 
-- Kali Linux
-- Windows Server
-- Linux
+| Operating Systems | Security | Networking | Programming |
+|:---:|:---:|:---:|:---:|
+| Kali Linux | Metasploit | Wireshark | Python |
+| Windows Server | Burp Suite | pfSense | |
+| Linux | Nmap | Active Directory | |
+| | Nessus | | |
+| | Wazuh | | |
+| | Splunk | | |
+| | YARA | | |
+| | Gophish | | |
 
-## Security
-
-- Metasploit
-- Burp Suite
-- Nmap
-- Nessus
-- Wazuh
-- Splunk
-- YARA
-- Gophish
-
-## Networking
-
-- Wireshark
-- pfSense
-- Active Directory
-
-## Programming
-
-- Python
-
----
-
-<h1 align="center">👤 Autore</h1>
-
-<p align="center">
-<strong>Mauro Picca</strong><br>
-IT Support Specialist | System Administrator<br>
-🎓 Master in <strong>Cybersecurity & Ethical Hacking</strong> – EPICODE (CS0226IT)<br>
-Attualmente orientato verso ruoli <strong>SOC Analyst</strong>, <strong>Blue Team</strong> e <strong>Cybersecurity Analyst</strong>.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mauro-picca">🔗 LinkedIn</a>
-</p>
+</div>
 
 ---
 
