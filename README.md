@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
+  🎓 Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
+</p>
+
+<p align="center">
+  🎯 Obiettivo: SOC Analyst · Blue Team · Cybersecurity Analyst
 </p>
 
 <p align="center">
@@ -115,17 +119,20 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 <h1 align="center">🛠️ Tecnologie e strumenti</h1>
 
-<p align="center"><strong>Operating Systems</strong></p>
-<p align="center">Kali Linux · Windows Server · Linux</p>
+<p align="center"><strong>Sistemi Operativi & Virtualizzazione</strong></p>
+<p align="center">Kali Linux · Windows Server 2022 · Windows 10 · Security Onion · VirtualBox</p>
 
-<p align="center"><strong>Security</strong></p>
-<p align="center">Metasploit · Burp Suite · Nmap · Nessus · Wazuh · Splunk · YARA · Gophish</p>
+<p align="center"><strong>Networking & Infrastruttura</strong></p>
+<p align="center">Cisco Packet Tracer · Wireshark · pfSense · Active Directory · VLAN</p>
 
-<p align="center"><strong>Networking</strong></p>
-<p align="center">Wireshark · pfSense · Active Directory</p>
+<p align="center"><strong>🎯 Red Team / Offensive Security</strong></p>
+<p align="center">Metasploit · Burp Suite · Nmap · Nessus · Gophish · Hydra · John the Ripper · Steghide · Stegseek · Tor · OSINT & Dark Web Investigation</p>
 
-<p align="center"><strong>Programming</strong></p>
-<p align="center">Python</p>
+<p align="center"><strong>🛡️ Blue Team / Defensive Security</strong></p>
+<p align="center">Wazuh · Splunk · YARA · VirusTotal · Security Onion · SIEM/XDR & Threat Intelligence</p>
+
+<p align="center"><strong>Programming & Scripting</strong></p>
+<p align="center">Python · Bash · PowerShell · SPL (Splunk Search Processing Language)</p>
 
 ---
 
