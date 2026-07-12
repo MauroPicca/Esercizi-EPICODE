@@ -1,6 +1,8 @@
-# Esercizi EPICODE — Cybersecurity & Ethical Hacking
+<h1 align="center">Esercizi EPICODE — Cybersecurity & Ethical Hacking</h1>
 
-![Panoramica del percorso EPICODE Cybersecurity & Ethical Hacking](epicode-cybersecurity-overview.png)
+<p align="center">
+  <img src="epicode-cybersecurity-overview.png" alt="Panoramica del percorso EPICODE Cybersecurity & Ethical Hacking">
+</p>
 
 > Oltre 60 laboratori, relazioni tecniche e progetti pratici realizzati durante il Master EPICODE in Cybersecurity & Ethical Hacking (classe CS0226IT).
 
@@ -12,7 +14,7 @@ Ogni cartella rappresenta una settimana (`S`) e un laboratorio (`L`) del master 
 
 ---
 
-# 📊 Il percorso in numeri
+<h1 align="center">📊 Il percorso in numeri</h1>
 
 - 📁 Oltre **60 laboratori** documentati
 - 📝 Decine di relazioni tecniche
@@ -22,7 +24,7 @@ Ogni cartella rappresenta una settimana (`S`) e un laboratorio (`L`) del master 
 
 ---
 
-# 🎯 Competenze sviluppate
+<h1 align="center">🎯 Competenze sviluppate</h1>
 
 - Network Security
 - Vulnerability Assessment
@@ -39,13 +41,13 @@ Ogni cartella rappresenta una settimana (`S`) e un laboratorio (`L`) del master 
 
 ---
 
-# 📁 Struttura del repository
+<h1 align="center">📁 Struttura del repository</h1>
 
 L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa da una **Build Week** dedicata allo sviluppo di un progetto pratico.
 
 ---
 
-## 🌐 UNIT 1 — Networking *(aprile)*
+<h2 align="center">🌐 UNIT 1 — Networking <em>(aprile)</em></h2>
 
 **Fundamentals of Ethical Hacking → Python & AI Pairing for Secure Coding → Operating System → Build Week 1**
 
@@ -59,7 +61,7 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 ---
 
-## 🎯 UNIT 2 — Red Team *(maggio)*
+<h2 align="center">🎯 UNIT 2 — Red Team <em>(maggio)</em></h2>
 
 **AI-Driven Reconnaissance → Exploitation → Metasploit → Build Week 2**
 
@@ -72,7 +74,7 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 ---
 
-## 🛡️ UNIT 3 — Blue Team *(giugno)*
+<h2 align="center">🛡️ UNIT 3 — Blue Team <em>(giugno)</em></h2>
 
 **Malware Analysis → SOC & SIEM → Cisco CyberOps → Build Week 3**
 
@@ -85,7 +87,7 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 ---
 
-# 🛠️ Tecnologie e strumenti
+<h1 align="center">🛠️ Tecnologie e strumenti</h1>
 
 ## Operating Systems
 
@@ -116,15 +118,18 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 ---
 
-# 👤 Autore
+<h1 align="center">👤 Autore</h1>
 
-## Mauro Picca
+<p align="center">
+<strong>Mauro Picca</strong><br>
+IT Support Specialist | System Administrator<br>
+🎓 Master in <strong>Cybersecurity & Ethical Hacking</strong> – EPICODE (CS0226IT)<br>
+Attualmente orientato verso ruoli <strong>SOC Analyst</strong>, <strong>Blue Team</strong> e <strong>Cybersecurity Analyst</strong>.
+</p>
 
-**IT Support Specialist | System Administrator**
-
-🎓 Master in **Cybersecurity & Ethical Hacking** – EPICODE (CS0226IT)
-
-Attualmente orientato verso ruoli **SOC Analyst**, **Blue Team** e **Cybersecurity Analyst**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauro-picca">🔗 LinkedIn</a>
+</p>
 
 ---
 
