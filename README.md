@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
+  Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
 </p>
 
 <p align="center">
