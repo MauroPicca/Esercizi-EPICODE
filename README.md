@@ -34,7 +34,7 @@ Ogni cartella rappresenta una settimana (`S`) e un laboratorio (`L`) del master 
 
 | 📁 | 📝 | 🛡️ | 🌐 | 📅 |
 |:---:|:---:|:---:|:---:|:---:|
-| **60+**<br>Laboratori documentati | **Decine**<br>di relazioni tecniche | **3**<br>Build Week progettuali | **3**<br>Aree: Networking, Red Team, Blue Team | **3 mesi**<br>di attività pratica continuativa |
+| **60+**<br>Laboratori documentati | **50+**<br>Relazioni tecniche | **3**<br>Build Week progettuali | **3**<br>Aree: Networking, Red Team, Blue Team | **3 mesi**<br>di attività pratica continuativa |
 
 </div>
 
