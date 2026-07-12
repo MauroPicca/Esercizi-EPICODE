@@ -5,21 +5,30 @@
 </p>
 
 <p align="center">
-<strong>Mauro Picca</strong><br>
-IT Support Specialist | System Administrator<br>
-🎓 Master in <strong>Cybersecurity & Ethical Hacking</strong> – EPICODE (CS0226IT)<br>
-Attualmente orientato verso ruoli <strong>SOC Analyst</strong>, <strong>Blue Team</strong> e <strong>Cybersecurity Analyst</strong>
+  <strong style="font-size:1.2em">Mauro Picca</strong> — IT Support Specialist | System Administrator
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauro-picca">🔗 LinkedIn</a>
+  <img src="https://img.shields.io/badge/🎓_Master-Cybersecurity_%26_Ethical_Hacking_(EPICODE_CS0226IT)-1F6FEB?style=for-the-badge" alt="Master EPICODE">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Target-SOC_Analyst-2ea44f?style=flat-square" alt="SOC Analyst">
+  <img src="https://img.shields.io/badge/Target-Blue_Team-2ea44f?style=flat-square" alt="Blue Team">
+  <img src="https://img.shields.io/badge/Target-Cybersecurity_Analyst-2ea44f?style=flat-square" alt="Cybersecurity Analyst">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauro-picca">
+    <img src="https://img.shields.io/badge/LinkedIn-mauro--picca-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
 > Oltre 60 laboratori, relazioni tecniche e progetti pratici realizzati durante il Master EPICODE in Cybersecurity & Ethical Hacking (classe CS0226IT).
 
-Questo repository raccoglie le relazioni, i laboratori e i progetti sviluppati durante il percorso formativo presso **EPICODE**.
+Questo repository raccoglie le relazioni, i laboratori e i progetti sviluppati durante il percorso formativo presso **EPICODE Institute of Technology**.
 
 Non è soltanto un archivio di esercitazioni, ma un portfolio tecnico che documenta l'intero percorso di apprendimento: settimana dopo settimana vengono illustrate le attività svolte, le metodologie adottate, gli strumenti utilizzati e i risultati ottenuti, dalle basi del networking fino alle attività di Red Team e Blue Team.
 
@@ -114,20 +123,36 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 
 <h1 align="center">🛠️ Tecnologie e strumenti</h1>
 
-<div align="center">
+<p align="center"><strong>Operating Systems</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
-| Operating Systems | Security | Networking | Programming |
-|:---:|:---:|:---:|:---:|
-| Kali Linux | Metasploit | Wireshark | Python |
-| Windows Server | Burp Suite | pfSense | |
-| Linux | Nmap | Active Directory | |
-| | Nessus | | |
-| | Wazuh | | |
-| | Splunk | | |
-| | YARA | | |
-| | Gophish | | |
+<p align="center"><strong>Security</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nessus-00A96E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wazuh-3AB6E0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
+  <img src="https://img.shields.io/badge/YARA-696969?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gophish-1E1E1E?style=for-the-badge">
+</p>
 
-</div>
+<p align="center"><strong>Networking</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+</p>
+
+<p align="center"><strong>Programming</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 ---
 
