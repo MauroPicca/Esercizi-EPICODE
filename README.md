@@ -9,19 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_MASTER-CYBERSECURITY_%26_ETHICAL_HACKING_(EPICODE_CS0226IT)-1F6FEB?style=for-the-badge&labelColor=24292F" alt="Master EPICODE">
+  🎓 Master in Cybersecurity & Ethical Hacking – EPICODE (CS0226IT)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Obiettivo-SOC_Analyst-1F6FEB?style=flat-square&labelColor=24292F" alt="SOC Analyst">
-  <img src="https://img.shields.io/badge/Obiettivo-Blue_Team-1F6FEB?style=flat-square&labelColor=24292F" alt="Blue Team">
-  <img src="https://img.shields.io/badge/Obiettivo-Cybersecurity_Analyst-1F6FEB?style=flat-square&labelColor=24292F" alt="Cybersecurity Analyst">
+  🎯 Obiettivo: SOC Analyst · Blue Team · Cybersecurity Analyst
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauro-picca">
-    <img src="https://img.shields.io/badge/LinkedIn-mauro--picca-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/mauro-picca">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -124,35 +120,16 @@ L'intero percorso è organizzato in **tre Unit didattiche**, ciascuna conclusa d
 <h1 align="center">🛠️ Tecnologie e strumenti</h1>
 
 <p align="center"><strong>Operating Systems</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+<p align="center">Kali Linux · Windows Server · Linux</p>
 
 <p align="center"><strong>Security</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-334155?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nessus-334155?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wazuh-334155?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/YARA-334155?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gophish-334155?style=for-the-badge">
-</p>
+<p align="center">Metasploit · Burp Suite · Nmap · Nessus · Wazuh · Splunk · YARA · Gophish</p>
 
 <p align="center"><strong>Networking</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/pfSense-334155?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-</p>
+<p align="center">Wireshark · pfSense · Active Directory</p>
 
 <p align="center"><strong>Programming</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+<p align="center">Python</p>
 
 ---
 
