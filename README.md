@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  🎯 Obiettivo: SOC Analyst · Blue Team · Cybersecurity Analyst
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mauro-picca">🔗 LinkedIn</a>
 </p>
 
